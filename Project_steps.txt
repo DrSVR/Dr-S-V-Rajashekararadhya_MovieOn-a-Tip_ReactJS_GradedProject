@@ -1,0 +1,36 @@
+I had followed the following procedure:
+
+firstly at cmd prompt 
+C:\Users\ANUbrr\Documents\Dr,S,V,Rajashekararadhya_MovieOn a Tip_ReactJS_GradedProject
+
+>npx create-react-app movie-app
+-------------------------------
+1)automatically few files will be created in folder (movie-app)
+
+IN VS CODE
+2)then i had added ,modified...
+    a) src (also added img folder)
+    b).env
+    c)img.js
+    d)data.json
+-------------------
+C:\Users\ANUbrr\Documents\Dr,S,V,Rajashekararadhya_MovieOn a Tip_ReactJS_GradedProject\movie-app>
+
+Open terminal and execute the following command to fetch the json data:
+
+       a) npm install -g json-server
+       b) npx json-server --watch data.json
+
+
+open one more terminal and execute the following commands:
+	a) npm install
+	b) npm start
+
+open one more terminal:
+
+npm install antd
+npm install axios
+npm install react-router-dom
+npm install bootstrap
+
+finally got the result.
